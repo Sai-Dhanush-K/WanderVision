@@ -1,5 +1,5 @@
 # Smart Assistive Glasses Context Pack
-
+in progress
 smart_glasses_context folder contains the project context and engineering contracts for the smart assistive glasses research prototype.
 
 Start with `18_CONTEXT_INDEX.md`.
