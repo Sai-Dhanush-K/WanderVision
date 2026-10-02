@@ -1,8 +1,6 @@
 # Smart Assistive Glasses Context Pack
 
-This folder contains the project context and engineering contracts for the smart assistive glasses B.Tech research prototype.
-
-ALL context is in smart_glasses_context folder
+smart_glasses_context folder contains the project context and engineering contracts for the smart assistive glasses research prototype.
 
 Start with `18_CONTEXT_INDEX.md`.
 
